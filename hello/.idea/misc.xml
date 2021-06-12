@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../../../java_learn/JSP_learn/project/hello11" />
+    <file type="web" url="file://$PROJECT_DIR$/hello10" />
+    <file type="web" url="file://$PROJECT_DIR$/hello11" />
+    <file type="web" url="file://$PROJECT_DIR$/hello12" />
+    <file type="web" url="file://$PROJECT_DIR$/hello13" />
+    <file type="web" url="file://$PROJECT_DIR$/hello14" />
+    <file type="web" url="file://$PROJECT_DIR$/hello3" />
+    <file type="web" url="file://$PROJECT_DIR$/hello4" />
+    <file type="web" url="file://$PROJECT_DIR$/hello5" />
+    <file type="web" url="file://$PROJECT_DIR$/hello6" />
+    <file type="web" url="file://$PROJECT_DIR$/hello7" />
+    <file type="web" url="file://$PROJECT_DIR$/hello8" />
+    <file type="web" url="file://$PROJECT_DIR$/hello9" />
+    <file type="web" url="file://$PROJECT_DIR$/../hello8" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/hello2/pom.xml" />
+        <option value="$PROJECT_DIR$/hello3/pom.xml" />
+        <option value="$PROJECT_DIR$/hello4/pom.xml" />
+        <option value="$PROJECT_DIR$/../hello5/pom.xml" />
+        <option value="$PROJECT_DIR$/hello5/pom.xml" />
+        <option value="$PROJECT_DIR$/hello6/pom.xml" />
+        <option value="$PROJECT_DIR$/hello7/pom.xml" />
+        <option value="$PROJECT_DIR$/hello8/pom.xml" />
+        <option value="$PROJECT_DIR$/hello9/pom.xml" />
+        <option value="$PROJECT_DIR$/../hello8/pom.xml" />
+        <option value="$PROJECT_DIR$/hello10/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../java_learn/JSP_learn/project/hello11/pom.xml" />
+        <option value="$PROJECT_DIR$/hello11/pom.xml" />
+        <option value="$PROJECT_DIR$/hello12/pom.xml" />
+        <option value="$PROJECT_DIR$/hello13/pom.xml" />
+        <option value="$PROJECT_DIR$/hello14/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

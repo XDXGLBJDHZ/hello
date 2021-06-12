@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/hello4/src/main/webapp/do_login.jsp" value="file://$PROJECT_DIR$/hello4/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/hello4/src/main/webapp/request.jsp" value="file://$PROJECT_DIR$/hello4/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/hello6/src/main/webapp/do_login.jsp" value="file://$PROJECT_DIR$/hello6/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/hello7/src/main/webapp/do_Updata.jsp" value="file://$PROJECT_DIR$/hello7/src/main/webapp" />
+      </map>
+    </option>
+  </component>
+</project>
