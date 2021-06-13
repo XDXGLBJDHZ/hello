@@ -36,9 +36,19 @@ public class UserDaoImpl implements Userdao {
         }
         return userList;
     }
-
     @Override
-    public int getTotalRecords() {
+    public int getTotalRecords() {/*上传记录*/
+        int total=0;
+        try{
+            dBcon=new DBcon();
+            String sql ="select count(*) as total from user";
+            ResultSet result=dBcon.doQuery(sql,new Object[]{});
+            if (result.next()){
+                total=result.getInt("total");
+            }
+        }catch (Exception e){
+            e.printStackTrace();
+        }
         return 0;
     }
 }
