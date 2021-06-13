@@ -5,7 +5,7 @@ import data2.bean.User;
 import java.util.List;
 
 public interface Userdao {
-    List<User> findByPage(int pageNumber ,int pageSize);
+    List<User> findByPage(int pageNumber ,int pageSize) throws Exception;
 
     int getTotalRecords();
 }
