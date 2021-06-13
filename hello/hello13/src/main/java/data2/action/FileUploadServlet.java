@@ -17,6 +17,11 @@ import java.io.PrintWriter;
 import java.util.Iterator;
 import java.util.List;
 
+/**
+ * @author ME08I
+ * @date 2021/6/13
+ */
+
 @WebServlet("/upload")
 public class FileUploadServlet extends HttpServlet {
     private String filePath = "e:\\upload";
