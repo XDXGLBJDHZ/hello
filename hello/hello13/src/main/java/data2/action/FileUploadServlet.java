@@ -24,8 +24,8 @@ import java.util.List;
 
 @WebServlet("/upload")
 public class FileUploadServlet extends HttpServlet {
-    private String filePath = "e:\\upload";
-    private String filePathTemp = "e:\\upload\\temp";
+    private String filePath = "d:\\upload";
+    private String filePathTemp = "d:\\upload\\temp";
 
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {

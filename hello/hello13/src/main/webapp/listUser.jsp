@@ -35,7 +35,7 @@
 <tr>
     当前<%=pageBean.getPageNumber()%>
     共<%=pageBean.getTopPageNumber()%>
-    <a href="userPage?action=list&pageNumber=<%=pageBean.getPageNumber()%>">首页</a>
+    <a href="userPage?action=list&pageNumber=<%=pageBean.getTopPageNumber()%>">首页</a>
     <a href="userPage?action=list&pageNumber=<%=pageBean.getNextPageNumber()%>">下一页</a>
     <a href="userPage?action=list&pageNumber=<%=pageBean.getPreviousPageNumber()%>">上一页</a>
     <a href="userPage?action=list&pageNumber=<%=pageBean.getBottomPageNumber()%>">尾页</a>
