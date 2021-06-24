@@ -32,10 +32,10 @@ public class DBCon {
         return result;
     }
 
-    public int doUpdate(String procedure, Object[] params) throws Exception {
+    public int doUpdate(String sql, Object[] params) throws Exception {
         int res = 0;
         connection = this.getconnection();
-        CallableStatement pstmt = connection.prepareCall(procedure);
+        CallableStatement pstmt = connection.prepareCall(sql);
         for (int i = 0; i < params.length; i++) {
             pstmt.setObject(i + 1, params[i]);
         }

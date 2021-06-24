@@ -1,2 +1,34 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="javax.sql.DataSource"/>
+<fullyQualifiedTypeName name="java.util.Properties"/>
+<fullyQualifiedTypeName name="javax.sql.CommonDataSource"/>
+<fullyQualifiedTypeName name="org.apache.commons.dbcp2.BasicDataSource"/>
+<fullyQualifiedTypeName name="org.apache.commons.dbcp2.BasicDataSourceFactory"/>
+<fullyQualifiedTypeName name="com.mysql.cj.xdevapi.PreparableStatement"/>
+<fullyQualifiedTypeName name="org.apache.naming.java.javaURLContextFactory"/>
+<fullyQualifiedTypeName name="dao.userDao"/>
+<fullyQualifiedTypeName name="dao.impl.userDaoImpl"/>
+<fullyQualifiedTypeName name="javax.servlet.annotation.WebServlet"/>
+<fullyQualifiedTypeName name="org.apache.tomcat.jni.User"/>
+<fullyQualifiedTypeName name="service.impl.UserServiceImpl"/>
+<fullyQualifiedTypeName name="java.sql.Connection"/>
+<fullyQualifiedTypeName name="java.lang.Class"/>
+<fullyQualifiedTypeName name="com.sun.tools.javac.code.Attribute.Class"/>
+<fullyQualifiedTypeName name="java.sql.DriverManager"/>
+<fullyQualifiedTypeName name="java.lang.Exception"/>
+<fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+<fullyQualifiedTypeName name="java.lang.InheritableThreadLocal"/>
+<fullyQualifiedTypeName name="dao.UserDao"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="com.mysql.cj.xdevapi.DbDoc"/>
+<fullyQualifiedTypeName name="db.DBCon"/>
+<fullyQualifiedTypeName name="java.lang.Object"/>
+<fullyQualifiedTypeName name="java.awt.desktop.UserSessionListener"/>
+<fullyQualifiedTypeName name="com.mysql.cj.xdevapi.Result"/>
+<fullyQualifiedTypeName name="dao.impl.UserDaoImpl"/>
+<fullyQualifiedTypeName name="service.UserService"/>
+<fullyQualifiedTypeName name="service.impl.ServiceImpl"/>
+<fullyQualifiedTypeName name="java.io.PrintWriter"/>
+<fullyQualifiedTypeName name="bean.User"/>
+</qualifiedTypeNameHistroy>

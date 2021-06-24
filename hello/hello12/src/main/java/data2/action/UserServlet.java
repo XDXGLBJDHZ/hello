@@ -18,8 +18,10 @@ import java.util.List;
  */
 @WebServlet("/user")//将Servlet映射到地址上
 public class UserServlet extends HttpServlet {
-    private UserService userService = new UserServiceImpl();//调用UserService的方法展现出UserServiceImpl的结果
-
+    /**
+     * 调用UserService的方法展现出UserServiceImpl的结果
+     */
+    private UserService userService = new UserServiceImpl();
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         doPost(req, resp);

@@ -1,11 +1,12 @@
-<%@ page import="data2.data2.dao.AdminDao" %>
-<%@ page import="data2.data2.dao.impl.AdminDaoImpl" %><%--
+<%--
   Created by IntelliJ IDEA.
   User: ME08I
   Date: 2021/5/15
   Time: 16:48
   To change this template use File | Settings | File Templates.
 --%>
+<%@ page import="data2.dao.AdminDao" %>
+<%@ page import="data2.dao.impl.AdminDaoImpl" %>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>

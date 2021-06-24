@@ -7,20 +7,20 @@ public class DBCon {
     private String dbUrl = "jdbc:mysql://localhost:3306/data2?useUnicode=true&characterEncoding=utf-8";
     private String dbUser = "root";
     private String dbPass = "toor";
-    private Connection conn = null;
+    private Connection connection = null;
 
     //连接数据库
     public Connection getConnection() throws Exception {
         Class.forName(dbDriver);
-        conn = DriverManager.getConnection(dbUrl, dbUser, dbPass);
-        return conn;
+        connection = DriverManager.getConnection(dbUrl, dbUser, dbPass);
+        return connection;
     }
 
     //数据库查询
     public ResultSet doquery(String sql) throws Exception {
         ResultSet rs = null;
-        conn = this.getConnection();
-        Statement stmt = conn.createStatement();
+        connection = this.getConnection();
+        Statement stmt = connection.createStatement();
         rs = stmt.executeQuery(sql);
         return rs;
     }
@@ -28,15 +28,15 @@ public class DBCon {
     //数据库更新
     public int doUpdata(String sql) throws Exception {
         int res = 0;
-        conn = this.getConnection();
-        Statement stmt = conn.createStatement();
+        connection = this.getConnection();
+        Statement stmt = connection.createStatement();
         res = stmt.executeUpdate(sql);
         return res;
     }
 
     //关闭资源
     public void close() throws Exception {
-        conn.close();
+        connection.close();
     }
 }
 

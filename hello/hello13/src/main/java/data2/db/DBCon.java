@@ -35,11 +35,11 @@ public class DBCon {
     public int doUpdate(String procedure, Object[] params) throws Exception {
         int res = 0;
         connection = this.getconnection();
-        CallableStatement pstmt = connection.prepareCall(procedure);
+        CallableStatement stmt = connection.prepareCall(procedure);
         for (int i = 0; i < params.length; i++) {
-            pstmt.setObject(i + 1, params[i]);
+            stmt.setObject(i + 1, params[i]);
         }
-        res = pstmt.executeUpdate();
+        res = stmt.executeUpdate();
         return res;
     }
 

@@ -13,19 +13,4 @@
         <property name="minPoolSize">2</property>
         <property name="maxStatements">0</property>
     </default-config>
-<!--    jdbc:mysql://localhost:3306/data2?useUnicode=true&amp;characterEncoding=utf-8&amp;serverTimezone=UTC-->
-<!--    <named-config name="c3p0-config">-->
-<!--        <property name="user">root</property>-->
-<!--        <property name="password">toor</property>-->
-<!--        <property name="jdbcUrl">jdbc:mysql://localhost:3306/data2?useUnicode=true</property>-->
-<!--        <property name="driverClass">com.mysql.cj.jdbc.Driver</property>-->
-<!--        &lt;!&ndash; 如果池中数据连接不够时一次增长多少个 &ndash;&gt;-->
-<!--        <property name="acquireIncrement">5</property>-->
-<!--        &lt;!&ndash; 初始化数据库连接池时连接的数量 &ndash;&gt;-->
-<!--        <property name="initialPoolSize">20</property>-->
-<!--        &lt;!&ndash; 数据库连接池中的最大的数据库连接数 &ndash;&gt;-->
-<!--        <property name="maxPoolSize">25</property>-->
-<!--        &lt;!&ndash; 数据库连接池中的最小的数据库连接数 &ndash;&gt;-->
-<!--        <property name="minPoolSize">5</property>-->
-<!--    </named-config>-->
 </c3p0-config>

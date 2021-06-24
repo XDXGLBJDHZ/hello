@@ -1,6 +1,4 @@
-<%@ page import="data2.util.PageBean" %>
-<%@ page import="java.util.List" %>
-<%@ page import="data2.bean.User" %>
+
 <%--
   Created by IntelliJ IDEA.
   User: ME08I
@@ -8,6 +6,9 @@
   Time: 21:22
   To change this template use File | Settings | File Templates.
 --%>
+<%@ page import="data2.util.PageBean" %>
+<%@ page import="java.util.List" %>
+<%@ page import="data2.bean.User" %>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
@@ -35,7 +36,7 @@
 <tr>
     当前<%=pageBean.getPageNumber()%>
     共<%=pageBean.getTopPageNumber()%>
-    <a href="userPage?action=list&pageNumber=<%=pageBean.getPageNumber()%>">首页</a>
+    <a href="userPage?action=list&pageNumber=<%=pageBean.getTopPageNumber()%>">首页</a>
     <a href="userPage?action=list&pageNumber=<%=pageBean.getNextPageNumber()%>">下一页</a>
     <a href="userPage?action=list&pageNumber=<%=pageBean.getPreviousPageNumber()%>">上一页</a>
     <a href="userPage?action=list&pageNumber=<%=pageBean.getBottomPageNumber()%>">尾页</a>
