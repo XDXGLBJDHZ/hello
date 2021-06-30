@@ -22,6 +22,7 @@ public class UserServlet extends HttpServlet {
      * 调用UserService的方法展现出UserServiceImpl的结果
      */
     private UserService userService = new UserServiceImpl();
+
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         doPost(req, resp);
