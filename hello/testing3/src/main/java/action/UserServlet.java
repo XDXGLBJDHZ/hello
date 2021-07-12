@@ -17,8 +17,6 @@ public class UserServlet extends HttpServlet {
     UserService userService=new UserServiceImpl();
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-        req.setCharacterEncoding("text/html;charset=UTF-8");
-        resp.setCharacterEncoding("utf-8");
         doPost(req, resp);
     }
 

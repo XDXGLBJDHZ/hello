@@ -14,7 +14,7 @@ public class UserDaoImpl implements UserDao {
             String sql="insert into user values(NULL,?,?)";
             result=dbCon.doUpdate(sql,new Object[]{user.getUsername(),user.getPassword()});
         }catch (Exception e){
-
+            e.printStackTrace();
         }
         return result;
     }
