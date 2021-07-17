@@ -17,4 +17,8 @@ public class HelloWorldAction extends ActionSupport {
     public String execute() {
         return SUCCESS;
     }
+    public String login(){
+        username="欢迎你,"+username;
+        return SUCCESS;
+    }
 }
