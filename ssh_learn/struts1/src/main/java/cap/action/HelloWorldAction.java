@@ -15,9 +15,11 @@ public class HelloWorldAction extends ActionSupport {
     }
 
     public String execute() {
+        System.out.println("execute方法已执行");
         return SUCCESS;
     }
     public String login(){
+        System.out.println("login方法已执行");
         username="欢迎你,"+username;
         return SUCCESS;
     }
