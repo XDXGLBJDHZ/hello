@@ -2,27 +2,35 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="struts1:war exploded" />
-      <artifact name="struts2:war exploded" />
+      <artifact name="struts_learn:war exploded" />
     </artifacts-to-build>
   </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a6c1ad1-1df4-4bf8-b09e-6d7056c76adf" name="Default Changelist" comment="2021/7/18">
-      <change afterPath="$PROJECT_DIR$/struts2/src/main/java/cap/action/LoginAction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/struts2/src/main/java/cap/bean/Admin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/struts2/src/main/resources/struts.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/struts2/src/main/webapp/error.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/struts2/src/main/webapp/login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/struts2/src/main/webapp/result.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/struts2_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/struts2_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/struts1/src/main/java/cap/action/HelloWorldAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/struts1/src/main/java/cap/action/HelloWorldAction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/struts1/src/main/resources/struts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/struts1/src/main/resources/struts.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/struts2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/struts2/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/struts2/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/struts2/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+    <list default="true" id="1a6c1ad1-1df4-4bf8-b09e-6d7056c76adf" name="Default Changelist" comment="2021/8/4">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/struts_learn_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/struts_learn_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/struts2/src/main/java/cap/action/LoginxAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/struts2/src/main/webapp/loginx.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/struts_learn/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/struts_learn/src/main/java/cn/itcast/action/BookAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/struts_learn/src/main/java/cn/itcast/action/OrderAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/struts_learn/src/main/resources/struts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/struts_learn/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/struts_learn/src/main/webapp/hello.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/struts_learn/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/struts_learn/src/main/webapp/world.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/struts_learn/struts_learn.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/struts2/src/main/resources/struts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/struts2/src/main/resources/struts.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/struts2/target/classes/struts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/struts2/target/classes/struts.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/struts2/target/struts2/WEB-INF/classes/struts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/struts2/target/struts2/WEB-INF/classes/struts.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,8 +41,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Tag Library Descriptor" />
-        <option value="Class" />
         <option value="struts" />
+        <option value="Class" />
         <option value="Jsp File" />
       </list>
     </option>
@@ -82,17 +90,26 @@
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Tomcat 8.5.631" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.631" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/struts_learn_war_exploded/" />
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
-        <artifact name="struts2:war exploded">
+        <artifact name="struts_learn:war exploded">
           <settings>
-            <option name="CONTEXT_PATH" value="/struts2_war_exploded" />
-          </settings>
-        </artifact>
-        <artifact name="struts1:war exploded">
-          <settings>
-            <option name="CONTEXT_PATH" value="/struts1_war_exploded" />
+            <option name="CONTEXT_PATH" value="/struts_learn_war_exploded" />
           </settings>
         </artifact>
       </deployment>
@@ -171,8 +188,7 @@
         <option name="Make" enabled="true" />
         <option name="BuildArtifacts" enabled="true">
           <artifact name="strust1:war exploded" />
-          <artifact name="struts2:war exploded" />
-          <artifact name="struts1:war exploded" />
+          <artifact name="struts_learn:war exploded" />
         </option>
       </method>
     </configuration>
@@ -219,7 +235,14 @@
       <workItem from="1627806264173" duration="2825000" />
       <workItem from="1627815495771" duration="2280000" />
       <workItem from="1627881709505" duration="1659000" />
-      <workItem from="1628044560429" duration="988000" />
+      <workItem from="1628044560429" duration="2076000" />
+      <workItem from="1628054638690" duration="1757000" />
+      <workItem from="1628057326194" duration="593000" />
+      <workItem from="1628060497658" duration="92000" />
+      <workItem from="1628061932490" duration="3235000" />
+      <workItem from="1628138852710" duration="1982000" />
+      <workItem from="1628155389507" duration="2169000" />
+      <workItem from="1628182057350" duration="1756000" />
     </task>
     <task id="LOCAL-00001" summary="2021/7/12">
       <created>1626092995104</created>
@@ -235,7 +258,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626538343179</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="2021/8/4">
+      <created>1628045638113</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1628045638113</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -257,7 +287,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="2021/7/12" />
     <MESSAGE value="2021/7/18" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021/7/18" />
+    <MESSAGE value="2021/8/4" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021/8/4" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

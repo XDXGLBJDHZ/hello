@@ -5,10 +5,13 @@
 
 <struts>
     <constant name="struts.enable.DynamicMethodInvocation" value="true"/>
-    <constant name="struts.devMode" value="false"></constant>
+    <constant name="struts.devMode" value="false"/>
 
     <package name="default" namespace="/" extends="struts-default">
-<!--        <global-allowed-methods>regex:.*</global-allowed-methods>-->
+        <action name="loginx" class="cap.action.LoginxAction" method="loginx">
+            <result name="success">/result.jsp</result>
+            <result name="error">/error.jsp</result>
+        </action>
         <action name="login" class="cap.action.LoginAction" method="login">
             <result name="success">/result.jsp</result>
             <result name="error">/error.jsp</result>
