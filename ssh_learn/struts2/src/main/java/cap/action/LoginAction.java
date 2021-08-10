@@ -3,7 +3,11 @@ package cap.action;
 
 import cap.bean.Admin;
 import com.opensymphony.xwork2.ActionSupport;
-
+/**
+ * 向对象传递数据
+ * @author ME08I
+ * @date 2021/8/4
+ */
 public class LoginAction extends ActionSupport {
     private Admin admin;
 

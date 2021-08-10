@@ -4,12 +4,5 @@
 
 <web-app>
   <display-name>Archetype Created Web Application</display-name>
-<!--  <servlet>-->
-<!--    <servlet-name>Servlet</servlet-name>-->
-<!--    <servlet-class>data2.action.FirstServlet</servlet-class>-->
-<!--  </servlet>-->
-<!--  <servlet-mapping>-->
-<!--    <servlet-name>Servlet</servlet-name>-->
-<!--    <url-pattern>/first</url-pattern>-->
-<!--  </servlet-mapping>-->
+
 </web-app>

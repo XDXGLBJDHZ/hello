@@ -6,7 +6,6 @@
 <struts>
     <constant name="struts.enable.DynamicMethodInvocation" value="true"/>
     <constant name="struts.devMode" value="false"/>
-
     <package name="default" namespace="/" extends="struts-default">
         <action name="loginx" class="cap.action.LoginxAction" method="loginx">
             <result name="success">/result.jsp</result>

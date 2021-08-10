@@ -5,6 +5,7 @@ import com.opensymphony.xwork2.ActionSupport;
 import com.opensymphony.xwork2.ModelDriven;
 
 /**
+ * 数据模型驱动
  * @author ME08I
  * @date 2021/8/4
  */
@@ -29,6 +30,7 @@ public class LoginxAction extends ActionSupport implements ModelDriven<Admin> {
     }
 
     public String loginx() {
+
         if (admin.getUsername().equals("yzk") && admin.getPassword().equals("123")) {
             return SUCCESS;
         } else {

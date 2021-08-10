@@ -1,17 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE struts PUBLIC
-        "-//Apache Software Foundation//DTD Struts Configuration 2.5//EN"
-        "http://struts.apache.org/dtds/struts-2.5.dtd">
+        "-//Apache Software Foundation//DTD Struts Configuration 2.0//EN"
+        "http://struts.apache.org/dtds/struts-2.0.dtd">
 
 <struts>
-    <constant name="struts.enable.DynamicMethodInvocation" value="true"/>
-    <constant name="struts.devMode" value="false"/>
-    <package name="default" namespace="/" extends="struts-default">
+    <package name="demo1" namespace="/" extends="struts-default">
         <!--当返回的值相同且结果页面配置相同则可以使用全局配置页面来减少代码量-->
 <!--        <global-results>-->
 <!--            <result name="success">/hello.jsp</result>-->
 <!--        </global-results>-->
-        <global-allowed-methods>regex:.*</global-allowed-methods>
         <action name="book" class="cn.itcast.action.BookAction">
             <result name="success" type="dispatcher">/world.jsp</result>
         </action>
@@ -22,5 +19,13 @@
         <action name="books" class="cn.itcast.action.BookAction">
             <result name="success" type="redirectAction">/orders</result>
         </action>
+    </package>
+
+    <!--获取表单提交数据-->
+    <package name="demo2" namespace="/" extends="struts-default">
+        <action name="form1" class="cn.itcast.form.Form1DemoAction"></action>
+        <action name="form2" class="cn.itcast.form.Form2DemoAction"></action>
+        <action name="form4" class="cn.itcast.form.Form4DemoAction"></action>
+        <action name="data2" class="cn.itcast.data.DataDemo2Action"></action>
     </package>
 </struts>
