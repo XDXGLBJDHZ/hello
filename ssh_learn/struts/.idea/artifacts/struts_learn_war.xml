@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="struts_learn:war">
+    <output-path>$PROJECT_DIR$/struts_learn/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>struts_learn</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="struts_learn.war">
+      <element id="artifact" artifact-name="struts_learn:war exploded" />
+    </root>
+  </artifact>
+</component>
