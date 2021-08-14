@@ -6,9 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="struts_learn1" />
         <module name="struts1" />
         <module name="struts2" />
-        <module name="struts_learn" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -16,7 +16,7 @@
       <module name="hibernate1" target="1.7" />
       <module name="struts1" target="1.7" />
       <module name="struts2" target="1.7" />
-      <module name="struts_learn" target="1.7" />
+      <module name="struts_learn1" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
