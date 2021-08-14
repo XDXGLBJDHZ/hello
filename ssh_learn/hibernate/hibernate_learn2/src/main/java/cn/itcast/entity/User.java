@@ -5,7 +5,7 @@ package cn.itcast.entity;
  * @date 2021/8/13
  */
 public class User {
-    private int id;
+    private String id;
     private String username;
     private String password;
 
@@ -25,11 +25,11 @@ public class User {
         this.username = username;
     }
 
-    public int getId() {
+    public String getId() {
         return id;
     }
 
-    public void setId(int id) {
+    public void setId(String id) {
         this.id = id;
     }
 }

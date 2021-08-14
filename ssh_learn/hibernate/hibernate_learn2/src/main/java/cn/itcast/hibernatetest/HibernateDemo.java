@@ -28,7 +28,7 @@ public class HibernateDemo {
 //        第五步：具体操作逻辑，crud操作（除这一步有变化，其余步骤都是固定操作）
         //添加功能
         User user = new User();
-        user.setId(2013);
+        user.setId("2013");
         user.setUsername("YZdfhK");
         user.setPassword("2203dfg41");
         //调用session中的方法来实现添加
