@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/struts1/struts1.iml" filepath="$PROJECT_DIR$/struts1/struts1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/struts2/struts2.iml" filepath="$PROJECT_DIR$/struts2/struts2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/struts_learn/struts_learn.iml" filepath="$PROJECT_DIR$/struts_learn/struts_learn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hibernate/hibernate_learn1/hibernate_learn1.iml" filepath="$PROJECT_DIR$/hibernate/hibernate_learn1/hibernate_learn1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hibernate/hibernate_learn2/hibernate_learn2.iml" filepath="$PROJECT_DIR$/hibernate/hibernate_learn2/hibernate_learn2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/struts/struts1/struts1.iml" filepath="$PROJECT_DIR$/struts/struts1/struts1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/struts/struts2/struts2.iml" filepath="$PROJECT_DIR$/struts/struts2/struts2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/struts/struts_learn1/struts_learn.iml" filepath="$PROJECT_DIR$/struts/struts_learn1/struts_learn.iml" />
     </modules>
   </component>
 </project>

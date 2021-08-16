@@ -6,11 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="hibernate_1" />
+        <module name="hibernate_learn2" />
+        <module name="hibernate_learn1" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="hibernate_1" target="1.7" />
+      <module name="hibernate_learn1" target="1.7" />
+      <module name="hibernate_learn2" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>

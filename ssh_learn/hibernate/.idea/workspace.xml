@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="hibernate1:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6d5ba54a-36ba-4494-91d4-87af5976e18a" name="Default Changelist" comment="2021/8/12">
+      <change beforePath="$PROJECT_DIR$/../.idea/artifacts/struts1_war.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/artifacts/struts1_war.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/artifacts/struts1_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/artifacts/struts1_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/artifacts/struts2_war.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/artifacts/struts2_war.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/artifacts/struts2_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/artifacts/struts2_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/artifacts/struts_learn_war.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/artifacts/struts_learn_war.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/artifacts/struts_learn_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/artifacts/struts_learn_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/hibernate1_war.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/hibernate1_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_11_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_1_2_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_5_5_6_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_27_0_GA.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_2_3_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_2_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hibernate_learn1/.idea/artifacts/hibernate_learn2_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hibernate_learn1/.idea/artifacts/hibernate_learn2_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hibernate_learn1/hibernate_learn1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hibernate_learn1/src/main/java/cn/itcast/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/hibernate_learn1/src/main/java/cn/itcast/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hibernate_learn1/src/main/resources/User.hbm.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hibernate_learn1/src/main/resources/User.hbm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hibernate_learn2/hibernate_learn2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hibernate_learn2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hibernate_learn2/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hibernate_learn2/src/main/java/cn/itcast/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/hibernate_learn2/src/main/java/cn/itcast/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hibernate_learn2/src/main/java/cn/itcast/hibernatetest/HibernateDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/hibernate_learn2/src/main/java/cn/itcast/hibernatetest/HibernateDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hibernate_learn2/src/main/java/cn/itcast/utils/HibernateUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/hibernate_learn2/src/main/java/cn/itcast/utils/HibernateUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hibernate_learn2/src/main/resources/User.hbm.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hibernate_learn2/src/main/resources/User.hbm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hibernate_learn2/target/classes/User.hbm.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hibernate_learn2/target/classes/User.hbm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hibernate_learn2/target/classes/cn/itcast/entity/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/hibernate_learn2/target/classes/cn/itcast/entity/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hibernate_learn2/target/classes/cn/itcast/hibernatetest/HibernateDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/hibernate_learn2/target/classes/cn/itcast/hibernatetest/HibernateDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/.idea/artifacts/hibernate1_war.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/.idea/artifacts/hibernate1_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/.idea/artifacts/struts_learn_war.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/.idea/artifacts/struts_learn_war.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/.idea/artifacts/struts_learn_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/.idea/artifacts/struts_learn_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/.idea/struts.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts1/struts1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts2/struts2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn1/src/main/java/cn/itcast/action/BookAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn/src/main/java/cn/itcast/action/BookAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn1/src/main/java/cn/itcast/action/OrderAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn/src/main/java/cn/itcast/action/OrderAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn1/src/main/java/cn/itcast/bean/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn/src/main/java/cn/itcast/bean/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn1/src/main/java/cn/itcast/bean/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn/src/main/java/cn/itcast/bean/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn1/src/main/java/cn/itcast/data/DataDemo1Action.java" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn/src/main/java/cn/itcast/data/DataDemo1Action.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn1/src/main/java/cn/itcast/data/DataDemo2Action.java" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn/src/main/java/cn/itcast/data/DataDemo2Action.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn1/src/main/java/cn/itcast/data/DataDemo3Action.java" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn/src/main/java/cn/itcast/data/DataDemo3Action.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn1/src/main/java/cn/itcast/form/Form1DemoAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn/src/main/java/cn/itcast/form/Form1DemoAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn1/src/main/java/cn/itcast/form/Form2DemoAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn/src/main/java/cn/itcast/form/Form2DemoAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn1/src/main/java/cn/itcast/form/Form3DemoAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn/src/main/java/cn/itcast/form/Form3DemoAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn1/src/main/java/cn/itcast/form/Form4DemoAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn/src/main/java/cn/itcast/form/Form4DemoAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn1/src/main/resources/struts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn/src/main/resources/struts.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn1/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn1/src/main/webapp/data1.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn/src/main/webapp/data1.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn1/src/main/webapp/data2.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn/src/main/webapp/data2.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn1/src/main/webapp/data3.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn/src/main/webapp/data3.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn1/src/main/webapp/form1.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn/src/main/webapp/form1.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn1/src/main/webapp/form2.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn/src/main/webapp/form2.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn1/src/main/webapp/form4.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn/src/main/webapp/form4.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn1/src/main/webapp/hello.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn/src/main/webapp/hello.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn1/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn1/src/main/webapp/world.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn/src/main/webapp/world.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn1/struts_learn1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn/struts_learn1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn1/target/classes/cn/itcast/action/BookAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn/target/classes/cn/itcast/action/BookAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn1/target/classes/cn/itcast/action/OrderAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn/target/classes/cn/itcast/action/OrderAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn1/target/classes/cn/itcast/bean/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn/target/classes/cn/itcast/bean/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn1/target/classes/cn/itcast/bean/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn/target/classes/cn/itcast/bean/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn1/target/classes/cn/itcast/data/DataDemo1Action.class" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn/target/classes/cn/itcast/data/DataDemo1Action.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn1/target/classes/cn/itcast/data/DataDemo2Action.class" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn/target/classes/cn/itcast/data/DataDemo2Action.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn1/target/classes/cn/itcast/data/DataDemo3Action.class" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn/target/classes/cn/itcast/data/DataDemo3Action.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn1/target/classes/cn/itcast/form/Form1DemoAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn/target/classes/cn/itcast/form/Form1DemoAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn1/target/classes/cn/itcast/form/Form2DemoAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn/target/classes/cn/itcast/form/Form2DemoAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn1/target/classes/cn/itcast/form/Form3DemoAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn/target/classes/cn/itcast/form/Form3DemoAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn1/target/classes/cn/itcast/form/Form4DemoAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn/target/classes/cn/itcast/form/Form4DemoAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn1/target/classes/struts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn/target/classes/struts.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn1/target/struts_learn/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn/target/struts_learn/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn1/target/struts_learn/WEB-INF/classes/cn/itcast/action/BookAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn/target/struts_learn/WEB-INF/classes/cn/itcast/action/BookAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn1/target/struts_learn/WEB-INF/classes/cn/itcast/action/OrderAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn/target/struts_learn/WEB-INF/classes/cn/itcast/action/OrderAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn1/target/struts_learn/WEB-INF/classes/cn/itcast/bean/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn/target/struts_learn/WEB-INF/classes/cn/itcast/bean/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn1/target/struts_learn/WEB-INF/classes/cn/itcast/bean/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn/target/struts_learn/WEB-INF/classes/cn/itcast/bean/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn1/target/struts_learn/WEB-INF/classes/cn/itcast/data/DataDemo1Action.class" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn/target/struts_learn/WEB-INF/classes/cn/itcast/data/DataDemo1Action.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn1/target/struts_learn/WEB-INF/classes/cn/itcast/data/DataDemo2Action.class" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn/target/struts_learn/WEB-INF/classes/cn/itcast/data/DataDemo2Action.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn1/target/struts_learn/WEB-INF/classes/cn/itcast/data/DataDemo3Action.class" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn/target/struts_learn/WEB-INF/classes/cn/itcast/data/DataDemo3Action.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn1/target/struts_learn/WEB-INF/classes/cn/itcast/form/Form1DemoAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn/target/struts_learn/WEB-INF/classes/cn/itcast/form/Form1DemoAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn1/target/struts_learn/WEB-INF/classes/cn/itcast/form/Form2DemoAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn/target/struts_learn/WEB-INF/classes/cn/itcast/form/Form2DemoAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn1/target/struts_learn/WEB-INF/classes/cn/itcast/form/Form3DemoAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn/target/struts_learn/WEB-INF/classes/cn/itcast/form/Form3DemoAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn1/target/struts_learn/WEB-INF/classes/cn/itcast/form/Form4DemoAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn/target/struts_learn/WEB-INF/classes/cn/itcast/form/Form4DemoAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn1/target/struts_learn/WEB-INF/classes/struts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn/target/struts_learn/WEB-INF/classes/struts.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn1/target/struts_learn/WEB-INF/lib/asm-3.3.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn/target/struts_learn/WEB-INF/lib/asm-3.3.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn1/target/struts_learn/WEB-INF/lib/asm-commons-3.3.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn/target/struts_learn/WEB-INF/lib/asm-commons-3.3.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn1/target/struts_learn/WEB-INF/lib/asm-tree-3.3.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn/target/struts_learn/WEB-INF/lib/asm-tree-3.3.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn1/target/struts_learn/WEB-INF/lib/commons-fileupload-1.4.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn/target/struts_learn/WEB-INF/lib/commons-fileupload-1.4.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn1/target/struts_learn/WEB-INF/lib/commons-io-2.2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn/target/struts_learn/WEB-INF/lib/commons-io-2.2.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn1/target/struts_learn/WEB-INF/lib/commons-lang3-3.2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn/target/struts_learn/WEB-INF/lib/commons-lang3-3.2.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn1/target/struts_learn/WEB-INF/lib/freemarker-2.3.28.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn/target/struts_learn/WEB-INF/lib/freemarker-2.3.28.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn1/target/struts_learn/WEB-INF/lib/javassist-3.11.0.GA.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn/target/struts_learn/WEB-INF/lib/javassist-3.11.0.GA.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn1/target/struts_learn/WEB-INF/lib/javax.servlet-api-3.0.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn/target/struts_learn/WEB-INF/lib/javax.servlet-api-3.0.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn1/target/struts_learn/WEB-INF/lib/ognl-3.0.21.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn/target/struts_learn/WEB-INF/lib/ognl-3.0.21.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn1/target/struts_learn/WEB-INF/lib/struts2-core-2.3.37.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn/target/struts_learn/WEB-INF/lib/struts2-core-2.3.37.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn1/target/struts_learn/WEB-INF/lib/xwork-core-2.3.37.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn/target/struts_learn/WEB-INF/lib/xwork-core-2.3.37.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn1/target/struts_learn/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn/target/struts_learn/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn1/target/struts_learn/data1.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn/target/struts_learn/data1.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn1/target/struts_learn/data2.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn/target/struts_learn/data2.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn1/target/struts_learn/data3.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn/target/struts_learn/data3.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn1/target/struts_learn/form1.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn/target/struts_learn/form1.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn1/target/struts_learn/form2.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn/target/struts_learn/form2.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn1/target/struts_learn/form4.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn/target/struts_learn/form4.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn1/target/struts_learn/hello.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn/target/struts_learn/hello.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn1/target/struts_learn/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn/target/struts_learn/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn1/target/struts_learn/world.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn/target/struts_learn/world.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="hibernate-mapping" />
+        <option value="hibernate-cfg" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1waRlWe6nVHLg62zSN0XTHJ9t4S" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/hibernate1/src/test/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.25179857" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\JAVA_WEB\Project\ssh_learn\hibernate\hibernate1\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.HibernateDemo.testDelete">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HibernateDemoTest.testAdd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hibernate_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.hibernatetest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.itcast.hibernatetest" />
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.hibernatetest.HibernateDemoTest" />
+      <option name="METHOD_NAME" value="testAdd" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HibernateDemo.testDelete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hibernate_learn2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.hibernatetest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.itcast.hibernatetest" />
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.hibernatetest.HibernateDemo" />
+      <option name="METHOD_NAME" value="testDelete" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 8.5.631" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.631" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/hibernate1_war_exploded/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="hibernate1:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/hibernate1_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="dac5f5da-8450-4d2b-b753-8a90fac23a55" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="50398" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="hibernate1:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.HibernateDemo.testDelete" />
+        <item itemvalue="JUnit.HibernateDemoTest.testAdd" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d5ba54a-36ba-4494-91d4-87af5976e18a" name="Default Changelist" comment="" />
+      <created>1628694866024</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628694866024</updated>
+      <workItem from="1628694867368" duration="402000" />
+      <workItem from="1628695324281" duration="74000" />
+      <workItem from="1628737961968" duration="10262000" />
+      <workItem from="1628759803751" duration="3507000" />
+      <workItem from="1628772348164" duration="978000" />
+      <workItem from="1628785513507" duration="12000" />
+      <workItem from="1628829473149" duration="510000" />
+      <workItem from="1628830057320" duration="49000" />
+      <workItem from="1628831625162" duration="48000" />
+      <workItem from="1629079378415" duration="20000" />
+      <workItem from="1629079417094" duration="394000" />
+      <workItem from="1629079852388" duration="82000" />
+      <workItem from="1629079962167" duration="16000" />
+      <workItem from="1629080242584" duration="604000" />
+      <workItem from="1629096059795" duration="2188000" />
+    </task>
+    <task id="LOCAL-00001" summary="2021/8/12">
+      <created>1628759879048</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1628759879048</updated>
+    </task>
+    <task id="LOCAL-00002" summary="2021/8/12">
+      <created>1628772447118</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1628772447118</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="7185a1fc-75dd-45c6-bb2a-afb256575f65">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:D:/JAVA_WEB/Project/ssh_learn/hibernate/hibernate1/src/main/webapp" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="7185a1fc-75dd-45c6-bb2a-afb256575f65" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2021/8/12" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021/8/12" />
+  </component>
+</project>

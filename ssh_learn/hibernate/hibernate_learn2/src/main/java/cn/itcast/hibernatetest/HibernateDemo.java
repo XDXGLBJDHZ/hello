@@ -1,41 +1,56 @@
 package cn.itcast.hibernatetest;
+
 import cn.itcast.entity.User;
 import cn.itcast.utils.HibernateUtils;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.Transaction;
+import org.hibernate.cfg.Configuration;
+import org.junit.Test;
 
 /**
  * @author ME08I
- * @date 2021/8/13
+ * @date 2021/8/14
  */
 public class HibernateDemo {
-    public void testAdd() {
-//        第一步：加载hibernate核心配置文件
-        //到src下找到hibernate.cfg.xml文件
-        //hibernate中封装的对象
-//        Configuration cfg = new Configuration();
-//        cfg.configure();
-//        第二步：创建SessionFactory对象
-        //读取hibernate的核心配置文件
-        //在过程中，根据映射关系，在配置的数据库中创建表
-//        SessionFactory sessionFactory = cfg.buildSessionFactory();
-        SessionFactory sessionFactory= HibernateUtils.getSessionFactory();
-//        第三步：使用SessionFactory对象创建session对象（与Http中的session没有任何关系）
+
+    @Test
+    public void testGet() {
+        SessionFactory sessionFactory = HibernateUtils.getSessionFactory();
         Session session = sessionFactory.openSession();
-//        第四步：开启事务（事物是操作过程中最基本的单元）
         Transaction transaction = session.beginTransaction();
-//        第五步：具体操作逻辑，crud操作（除这一步有变化，其余步骤都是固定操作）
-        //添加功能
-        User user = new User();
-        user.setId("2013");
-        user.setUsername("YZdfhK");
-        user.setPassword("2203dfg41");
-        //调用session中的方法来实现添加
-        session.save(user);
-//        第六步：提交事物
+        //第一个参数实体类，第二参数是需要查询的id值
+        User user = session.get(User.class, 1);
+        System.out.println(user);
         transaction.commit();
-//        第七步：关闭资源
+        session.close();
+        sessionFactory.close();
+    }
+
+    @Test
+    public void testUpdate() {
+        SessionFactory sessionFactory = HibernateUtils.getSessionFactory();
+        Session session = sessionFactory.openSession();
+        Transaction transaction = session.beginTransaction();
+        User user = session.get(User.class, 1);
+        //向返回的user对象里面设置修改之后的值
+        user.setUsername("kickback");
+        //执行过程先到user对象中找到id,然后在根据id进行修改
+        session.update(user);
+        transaction.commit();
+        session.close();
+        sessionFactory.close();
+    }
+
+    @Test
+    public void testDelete() {
+        SessionFactory sessionFactory = HibernateUtils.getSessionFactory();
+        Session session = sessionFactory.openSession();
+        Transaction transaction = session.beginTransaction();
+        //先查询出数据，在再进行删除
+        User user = session.get(User.class, 1);
+        session.delete(user);
+        transaction.commit();
         session.close();
         sessionFactory.close();
     }

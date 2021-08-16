@@ -5,7 +5,7 @@ import org.hibernate.cfg.Configuration;
 
 /**
  * @author ME08I
- * @date 2021/8/13
+ * @date 2021/8/14
  */
 public class HibernateUtils {
     //静态代码块中只执行一次，所以变量也必须是静态的

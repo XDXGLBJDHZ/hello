@@ -2,10 +2,10 @@ package cn.itcast.entity;
 
 /**
  * @author ME08I
- * @date 2021/8/13
+ * @date 2021/8/14
  */
 public class User {
-    private String id;
+    private int id;
     private String username;
     private String password;
 
@@ -25,11 +25,11 @@ public class User {
         this.username = username;
     }
 
-    public String getId() {
+    public int getId() {
         return id;
     }
 
-    public void setId(String id) {
+    public void setId(int id) {
         this.id = id;
     }
 }
