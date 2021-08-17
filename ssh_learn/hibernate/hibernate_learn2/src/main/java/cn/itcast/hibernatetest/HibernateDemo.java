@@ -54,4 +54,20 @@ public class HibernateDemo {
         session.close();
         sessionFactory.close();
     }
+    /**
+     * 使用saveOrUpdate方法进行添加或修改
+     * */
+    @Test
+    public void testSaveOrUpdate() {
+        SessionFactory sessionFactory = HibernateUtils.getSessionFactory();
+        Session session = sessionFactory.openSession();
+        Transaction transaction = session.beginTransaction();
+        //实体类对象瞬时态时做添加操作，托管态时做修改操作
+        User user=session.get(User.class,5);
+        user.setUsername("h");
+        session.saveOrUpdate(user);
+        transaction.commit();
+        session.close();
+        sessionFactory.close();
+    }
 }

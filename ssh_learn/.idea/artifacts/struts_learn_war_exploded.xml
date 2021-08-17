@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="exploded-war" name="struts_learn:war exploded">
-    <output-path>$PROJECT_DIR$/struts/struts_learn1/target/struts_learn</output-path>
+    <output-path>$PROJECT_DIR$/struts/struts_learn/target/struts_learn</output-path>
     <properties id="maven-jee-properties">
       <options>
         <exploded>true</exploded>
