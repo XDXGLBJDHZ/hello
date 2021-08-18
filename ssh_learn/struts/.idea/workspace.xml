@@ -1,22 +1,220 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="struts_learn1:war exploded" />
+    </artifacts-to-build>
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a1d4d6a-11b0-4b57-89e9-a6ea3fd424fd" name="Default Changelist" comment="2021/8/16" />
+    <list default="true" id="5a1d4d6a-11b0-4b57-89e9-a6ea3fd424fd" name="Default Changelist" comment="2021/8/16">
+      <change afterPath="$PROJECT_DIR$/struts_learn2/src/main/java/cn/itcast/action/ListActionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/struts_learn2/src/main/webapp/list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.mylyn/repositories.xml.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jsch.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jst.j2ee.webservice.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.m2e.discovery.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.context.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.monitor.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.tasks.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.browser.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.navigator.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.urischeme.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.core/assumedExternalFilesCache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.launching/.install.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jst.j2ee.ui/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.m2e.core.ui/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.m2e.core/workspaceState.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.16.0.20200318-1040.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.tips.ide/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.ui.intro/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.ui.intro/introstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/version.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RemoteSystemsTempFiles/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Servers/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Servers/.settings/org.eclipse.wst.server.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Servers/Tomcat v7.0 Server at localhost-config/catalina.policy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Servers/Tomcat v7.0 Server at localhost-config/catalina.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Servers/Tomcat v7.0 Server at localhost-config/context.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Servers/Tomcat v7.0 Server at localhost-config/server.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Servers/Tomcat v7.0 Server at localhost-config/tomcat-users.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Servers/Tomcat v7.0 Server at localhost-config/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Servers/Tomcat v8.5 Server at localhost-config/catalina.policy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Servers/Tomcat v8.5 Server at localhost-config/catalina.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Servers/Tomcat v8.5 Server at localhost-config/context.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Servers/Tomcat v8.5 Server at localhost-config/server.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Servers/Tomcat v8.5 Server at localhost-config/tomcat-users.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Servers/Tomcat v8.5 Server at localhost-config/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernate/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hibernate/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernate/hibernate_learn2/src/main/java/cn/itcast/hibernatetest/HibernateDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hibernate/hibernate_learn2/src/main/java/cn/itcast/hibernatetest/HibernateDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernate/hibernate_learn2/target/classes/cn/itcast/hibernatetest/HibernateDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/struts_learn_war.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/struts_learn_war.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/struts_learn_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/struts_learn_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__asm_asm_3_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__asm_asm_commons_3_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__asm_asm_tree_3_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javassist_javassist_3_11_0_GA.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ognl_ognl_3_0_21.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ognl_ognl_3_1_28.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_12_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_struts_struts2_core_2_3_37.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_struts_struts2_core_2_5_25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_struts_xwork_xwork_core_2_3_37.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_28.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_30.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_20_0_GA.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/struts2/struts2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/struts2/struts2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/struts_learn/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/struts_learn1/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/struts_learn/src/main/java/cn/itcast/action/BookAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/struts_learn1/src/main/java/cn/itcast/action/BookAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/struts_learn/src/main/java/cn/itcast/action/OrderAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/struts_learn1/src/main/java/cn/itcast/action/OrderAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/struts_learn/src/main/java/cn/itcast/bean/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/struts_learn1/src/main/java/cn/itcast/bean/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/struts_learn/src/main/java/cn/itcast/bean/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/struts_learn1/src/main/java/cn/itcast/bean/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/struts_learn/src/main/java/cn/itcast/data/DataDemo1Action.java" beforeDir="false" afterPath="$PROJECT_DIR$/struts_learn1/src/main/java/cn/itcast/data/DataDemo1Action.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/struts_learn/src/main/java/cn/itcast/data/DataDemo2Action.java" beforeDir="false" afterPath="$PROJECT_DIR$/struts_learn1/src/main/java/cn/itcast/data/DataDemo2Action.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/struts_learn/src/main/java/cn/itcast/data/DataDemo3Action.java" beforeDir="false" afterPath="$PROJECT_DIR$/struts_learn1/src/main/java/cn/itcast/data/DataDemo3Action.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/struts_learn/src/main/java/cn/itcast/form/Form1DemoAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/struts_learn1/src/main/java/cn/itcast/form/Form1DemoAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/struts_learn/src/main/java/cn/itcast/form/Form2DemoAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/struts_learn1/src/main/java/cn/itcast/form/Form2DemoAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/struts_learn/src/main/java/cn/itcast/form/Form3DemoAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/struts_learn1/src/main/java/cn/itcast/form/Form3DemoAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/struts_learn/src/main/java/cn/itcast/form/Form4DemoAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/struts_learn1/src/main/java/cn/itcast/form/Form4DemoAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/struts_learn/src/main/resources/struts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/struts_learn1/src/main/resources/struts.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/struts_learn/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/struts_learn1/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/struts_learn/src/main/webapp/data1.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/struts_learn1/src/main/webapp/data1.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/struts_learn/src/main/webapp/data2.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/struts_learn1/src/main/webapp/data2.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/struts_learn/src/main/webapp/data3.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/struts_learn1/src/main/webapp/data3.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/struts_learn/src/main/webapp/form1.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/struts_learn1/src/main/webapp/form1.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/struts_learn/src/main/webapp/form2.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/struts_learn1/src/main/webapp/form2.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/struts_learn/src/main/webapp/form4.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/struts_learn1/src/main/webapp/form4.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/struts_learn/src/main/webapp/hello.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/struts_learn1/src/main/webapp/hello.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/struts_learn/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/struts_learn1/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/struts_learn/src/main/webapp/world.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/struts_learn1/src/main/webapp/world.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/struts_learn/struts_learn.iml" beforeDir="false" afterPath="$PROJECT_DIR$/struts_learn1/struts_learn1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/struts_learn/target/classes/cn/itcast/action/BookAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/struts_learn1/target/classes/cn/itcast/action/BookAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/struts_learn/target/classes/cn/itcast/action/OrderAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/struts_learn1/target/classes/cn/itcast/action/OrderAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/struts_learn/target/classes/cn/itcast/bean/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/struts_learn1/target/classes/cn/itcast/bean/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/struts_learn/target/classes/cn/itcast/bean/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/struts_learn1/target/classes/cn/itcast/bean/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/struts_learn/target/classes/cn/itcast/data/DataDemo1Action.class" beforeDir="false" afterPath="$PROJECT_DIR$/struts_learn1/target/classes/cn/itcast/data/DataDemo1Action.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/struts_learn/target/classes/cn/itcast/data/DataDemo2Action.class" beforeDir="false" afterPath="$PROJECT_DIR$/struts_learn1/target/classes/cn/itcast/data/DataDemo2Action.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/struts_learn/target/classes/cn/itcast/data/DataDemo3Action.class" beforeDir="false" afterPath="$PROJECT_DIR$/struts_learn1/target/classes/cn/itcast/data/DataDemo3Action.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/struts_learn/target/classes/cn/itcast/form/Form1DemoAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/struts_learn1/target/classes/cn/itcast/form/Form1DemoAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/struts_learn/target/classes/cn/itcast/form/Form2DemoAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/struts_learn1/target/classes/cn/itcast/form/Form2DemoAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/struts_learn/target/classes/cn/itcast/form/Form3DemoAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/struts_learn1/target/classes/cn/itcast/form/Form3DemoAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/struts_learn/target/classes/cn/itcast/form/Form4DemoAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/struts_learn1/target/classes/cn/itcast/form/Form4DemoAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/struts_learn/target/classes/struts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/struts_learn1/target/classes/struts.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/struts_learn/target/struts_learn/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/struts_learn1/target/struts_learn/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/struts_learn/target/struts_learn/WEB-INF/classes/cn/itcast/action/BookAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/struts_learn1/target/struts_learn/WEB-INF/classes/cn/itcast/action/BookAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/struts_learn/target/struts_learn/WEB-INF/classes/cn/itcast/action/OrderAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/struts_learn1/target/struts_learn/WEB-INF/classes/cn/itcast/action/OrderAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/struts_learn/target/struts_learn/WEB-INF/classes/cn/itcast/bean/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/struts_learn1/target/struts_learn/WEB-INF/classes/cn/itcast/bean/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/struts_learn/target/struts_learn/WEB-INF/classes/cn/itcast/bean/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/struts_learn1/target/struts_learn/WEB-INF/classes/cn/itcast/bean/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/struts_learn/target/struts_learn/WEB-INF/classes/cn/itcast/data/DataDemo1Action.class" beforeDir="false" afterPath="$PROJECT_DIR$/struts_learn1/target/struts_learn/WEB-INF/classes/cn/itcast/data/DataDemo1Action.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/struts_learn/target/struts_learn/WEB-INF/classes/cn/itcast/data/DataDemo2Action.class" beforeDir="false" afterPath="$PROJECT_DIR$/struts_learn1/target/struts_learn/WEB-INF/classes/cn/itcast/data/DataDemo2Action.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/struts_learn/target/struts_learn/WEB-INF/classes/cn/itcast/data/DataDemo3Action.class" beforeDir="false" afterPath="$PROJECT_DIR$/struts_learn1/target/struts_learn/WEB-INF/classes/cn/itcast/data/DataDemo3Action.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/struts_learn/target/struts_learn/WEB-INF/classes/cn/itcast/form/Form1DemoAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/struts_learn1/target/struts_learn/WEB-INF/classes/cn/itcast/form/Form1DemoAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/struts_learn/target/struts_learn/WEB-INF/classes/cn/itcast/form/Form2DemoAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/struts_learn1/target/struts_learn/WEB-INF/classes/cn/itcast/form/Form2DemoAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/struts_learn/target/struts_learn/WEB-INF/classes/cn/itcast/form/Form3DemoAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/struts_learn1/target/struts_learn/WEB-INF/classes/cn/itcast/form/Form3DemoAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/struts_learn/target/struts_learn/WEB-INF/classes/cn/itcast/form/Form4DemoAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/struts_learn1/target/struts_learn/WEB-INF/classes/cn/itcast/form/Form4DemoAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/struts_learn/target/struts_learn/WEB-INF/classes/struts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/struts_learn1/target/struts_learn/WEB-INF/classes/struts.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/struts_learn/target/struts_learn/WEB-INF/lib/asm-3.3.jar" beforeDir="false" afterPath="$PROJECT_DIR$/struts_learn1/target/struts_learn/WEB-INF/lib/asm-3.3.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/struts_learn/target/struts_learn/WEB-INF/lib/asm-commons-3.3.jar" beforeDir="false" afterPath="$PROJECT_DIR$/struts_learn1/target/struts_learn/WEB-INF/lib/asm-commons-3.3.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/struts_learn/target/struts_learn/WEB-INF/lib/asm-tree-3.3.jar" beforeDir="false" afterPath="$PROJECT_DIR$/struts_learn1/target/struts_learn/WEB-INF/lib/asm-tree-3.3.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/struts_learn/target/struts_learn/WEB-INF/lib/commons-fileupload-1.4.jar" beforeDir="false" afterPath="$PROJECT_DIR$/struts_learn1/target/struts_learn/WEB-INF/lib/commons-fileupload-1.4.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/struts_learn/target/struts_learn/WEB-INF/lib/commons-io-2.2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/struts_learn1/target/struts_learn/WEB-INF/lib/commons-io-2.2.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/struts_learn/target/struts_learn/WEB-INF/lib/commons-lang3-3.2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/struts_learn1/target/struts_learn/WEB-INF/lib/commons-lang3-3.2.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/struts_learn/target/struts_learn/WEB-INF/lib/freemarker-2.3.28.jar" beforeDir="false" afterPath="$PROJECT_DIR$/struts_learn1/target/struts_learn/WEB-INF/lib/freemarker-2.3.28.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/struts_learn/target/struts_learn/WEB-INF/lib/javassist-3.11.0.GA.jar" beforeDir="false" afterPath="$PROJECT_DIR$/struts_learn1/target/struts_learn/WEB-INF/lib/javassist-3.11.0.GA.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/struts_learn/target/struts_learn/WEB-INF/lib/javax.servlet-api-3.0.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/struts_learn1/target/struts_learn/WEB-INF/lib/javax.servlet-api-3.0.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/struts_learn/target/struts_learn/WEB-INF/lib/ognl-3.0.21.jar" beforeDir="false" afterPath="$PROJECT_DIR$/struts_learn1/target/struts_learn/WEB-INF/lib/ognl-3.0.21.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/struts_learn/target/struts_learn/WEB-INF/lib/struts2-core-2.3.37.jar" beforeDir="false" afterPath="$PROJECT_DIR$/struts_learn1/target/struts_learn/WEB-INF/lib/struts2-core-2.3.37.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/struts_learn/target/struts_learn/WEB-INF/lib/xwork-core-2.3.37.jar" beforeDir="false" afterPath="$PROJECT_DIR$/struts_learn1/target/struts_learn/WEB-INF/lib/xwork-core-2.3.37.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/struts_learn/target/struts_learn/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/struts_learn1/target/struts_learn/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/struts_learn/target/struts_learn/data1.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/struts_learn1/target/struts_learn/data1.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/struts_learn/target/struts_learn/data2.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/struts_learn1/target/struts_learn/data2.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/struts_learn/target/struts_learn/data3.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/struts_learn1/target/struts_learn/data3.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/struts_learn/target/struts_learn/form1.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/struts_learn1/target/struts_learn/form1.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/struts_learn/target/struts_learn/form2.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/struts_learn1/target/struts_learn/form2.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/struts_learn/target/struts_learn/form4.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/struts_learn1/target/struts_learn/form4.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/struts_learn/target/struts_learn/hello.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/struts_learn1/target/struts_learn/hello.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/struts_learn/target/struts_learn/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/struts_learn1/target/struts_learn/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/struts_learn/target/struts_learn/world.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/struts_learn1/target/struts_learn/world.jsp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="struts2.3" />
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
   <component name="ProjectId" id="1wn2TW1yxJYwb6qoU1k3FgAGYHc" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="Downloaded.Files.Path" value="D:\Maven\repository" />
     <property name="Downloaded.Files.Path.Enabled" value="true" />
     <property name="Repository.Attach.Annotations" value="false" />
@@ -27,10 +225,19 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
-    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/struts_learn1" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.25179857" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JAVA_WEB\Project\ssh_learn\struts\struts_learn2\src\main\resources" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
@@ -44,6 +251,94 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Tomcat 8.5.631" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.631" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/struts_learn1_war_exploded/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="struts_learn1:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/struts_learn1_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="4d010427-565e-47e1-88c6-cefb01368afb" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="53802" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="struts_learn1:war exploded" />
+        </option>
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -55,6 +350,10 @@
       <updated>1629080039559</updated>
       <workItem from="1629080040869" duration="53000" />
       <workItem from="1629107580867" duration="296000" />
+      <workItem from="1629199851945" duration="5815000" />
+      <workItem from="1629256313874" duration="870000" />
+      <workItem from="1629287092172" duration="406000" />
+      <workItem from="1629287509533" duration="366000" />
     </task>
     <task id="LOCAL-00001" summary="2021/8/16">
       <created>1629107843849</created>
@@ -79,6 +378,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2021/8/16" />

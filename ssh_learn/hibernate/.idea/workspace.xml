@@ -9,37 +9,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d5ba54a-36ba-4494-91d4-87af5976e18a" name="Default Changelist" comment="2021/8/16">
-      <change afterPath="$PROJECT_DIR$/../../JavaBasical/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaBasical/basical/src/com/array/pojo/ArrayDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaBasical/basical/src/com/array/pojo/ArrayDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/artifacts/struts_learn_war.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/artifacts/struts_learn_war.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/artifacts/struts_learn_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/artifacts/struts_learn_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__commons_io_commons_io_2_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__ognl_ognl_3_1_28.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__org_apache_commons_commons_lang3_3_8_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_12_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__org_apache_struts_struts2_core_2_5_25.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__org_freemarker_freemarker_2_3_30.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__org_javassist_javassist_3_20_0_GA.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/3db3bfee-97ff-44b1-9a31-3ffcd1a72010.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/3db3bfee-97ff-44b1-9a31-3ffcd1a72010/storage_v2/_src_/schema/data2.yAWvBQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/3db3bfee-97ff-44b1-9a31-3ffcd1a72010/storage_v2/_src_/schema/data2.yAWvBQ.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/3db3bfee-97ff-44b1-9a31-3ffcd1a72010/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/3db3bfee-97ff-44b1-9a31-3ffcd1a72010/storage_v2/_src_/schema/mysql.osA4Bg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/3db3bfee-97ff-44b1-9a31-3ffcd1a72010/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/3db3bfee-97ff-44b1-9a31-3ffcd1a72010/storage_v2/_src_/schema/sys.zb4BAA.meta" beforeDir="false" />
+    <list default="true" id="6d5ba54a-36ba-4494-91d4-87af5976e18a" name="Default Changelist" comment="2021/8/17">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hibernate_learn1/hibernate_learn1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/hibernate_learn1/hibernate_learn1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hibernate_learn2/hibernate_learn2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/hibernate_learn2/hibernate_learn2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hibernate_learn2/src/main/java/cn/itcast/hibernatetest/HibernateDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/hibernate_learn2/src/main/java/cn/itcast/hibernatetest/HibernateDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../struts/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hibernate_learn2/src/main/java/cn/itcast/hibernatetest/HibernateDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/hibernate_learn2/src/main/java/cn/itcast/hibernatetest/HibernateDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hibernate_learn2/target/classes/cn/itcast/hibernatetest/HibernateDemo.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,14 +77,51 @@
       <recent name="D:\JAVA_WEB\Project\ssh_learn\hibernate\hibernate1\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.HibernateDemo.testSaveOrUpdate">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
+  <component name="RunManager" selected="JUnit.HibernateDemo2.testCache">
+    <configuration name="HibernateDemo1.testDelete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hibernate_learn2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.hibernatetest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.itcast.hibernatetest" />
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.hibernatetest.HibernateDemo1" />
+      <option name="METHOD_NAME" value="testDelete" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HibernateDemo1.testSaveOrUpdate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hibernate_learn2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.hibernatetest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.itcast.hibernatetest" />
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.hibernatetest.HibernateDemo1" />
+      <option name="METHOD_NAME" value="testSaveOrUpdate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HibernateDemo2.testCache" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hibernate_learn2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.hibernatetest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.itcast.hibernatetest" />
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.hibernatetest.HibernateDemo2" />
+      <option name="METHOD_NAME" value="testCache" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -127,38 +137,6 @@
       <option name="PACKAGE_NAME" value="cn.itcast.hibernatetest" />
       <option name="MAIN_CLASS_NAME" value="cn.itcast.hibernatetest.HibernateDemoTest" />
       <option name="METHOD_NAME" value="testAdd" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HibernateDemo.testDelete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="hibernate_learn2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.itcast.hibernatetest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="cn.itcast.hibernatetest" />
-      <option name="MAIN_CLASS_NAME" value="cn.itcast.hibernatetest.HibernateDemo" />
-      <option name="METHOD_NAME" value="testDelete" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HibernateDemo.testSaveOrUpdate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="hibernate_learn2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.itcast.hibernatetest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="cn.itcast.hibernatetest" />
-      <option name="MAIN_CLASS_NAME" value="cn.itcast.hibernatetest.HibernateDemo" />
-      <option name="METHOD_NAME" value="testSaveOrUpdate" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -254,8 +232,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.HibernateDemo.testSaveOrUpdate" />
-        <item itemvalue="JUnit.HibernateDemo.testDelete" />
+        <item itemvalue="JUnit.HibernateDemo2.testCache" />
+        <item itemvalue="JUnit.HibernateDemo1.testSaveOrUpdate" />
+        <item itemvalue="JUnit.HibernateDemo1.testDelete" />
         <item itemvalue="JUnit.HibernateDemoTest.testAdd" />
       </list>
     </recent_temporary>
@@ -286,7 +265,8 @@
       <workItem from="1629107474758" duration="103000" />
       <workItem from="1629107973147" duration="355000" />
       <workItem from="1629127734015" duration="7000" />
-      <workItem from="1629183985130" duration="2543000" />
+      <workItem from="1629183985130" duration="4441000" />
+      <workItem from="1629199782152" duration="67000" />
     </task>
     <task id="LOCAL-00001" summary="2021/8/12">
       <created>1628759879048</created>
@@ -309,7 +289,21 @@
       <option name="project" value="LOCAL" />
       <updated>1629107518026</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="2021/8/17">
+      <created>1629186766683</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1629186766683</updated>
+    </task>
+    <task id="LOCAL-00005" summary="2021/8/17">
+      <created>1629187059384</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1629187059384</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -360,6 +354,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2021/8/12" />
     <MESSAGE value="2021/8/16" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021/8/16" />
+    <MESSAGE value="2021/8/17" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021/8/17" />
   </component>
 </project>
