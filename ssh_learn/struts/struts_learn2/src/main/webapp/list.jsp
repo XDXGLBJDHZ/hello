@@ -12,6 +12,9 @@
 </head>
 <body>
 <form action="${pageContext.request.contextPath}/list.action" method="post">
+    <!--0是指list集合中的第一个对象
+    可同时封装多个对象
+    -->
     <input type="text" name="list[0].id">
     <input type="text" name="list[0].username">
     <input type="text" name="list[0].password">

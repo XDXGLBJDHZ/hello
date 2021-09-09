@@ -10,9 +10,108 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d5ba54a-36ba-4494-91d4-87af5976e18a" name="Default Changelist" comment="2021/8/17">
+      <change beforePath="$PROJECT_DIR$/../../hello/.idea/artifacts/hello7_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../hello/.idea/artifacts/hello7_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hello/.idea/artifacts/hello8_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../hello/.idea/artifacts/hello8_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hello/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../hello/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hello/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../hello/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hello/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hello/.idea/libraries/Maven__org_jetbrains_annotations_13_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hello/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_1_4_20.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hello/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_common_1_4_20.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hello/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_4_20.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hello/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_jdk8_1_4_20.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hello/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_8_0_M1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hello/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_0_M1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hello/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_0_M1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hello/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_8_0_M1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hello/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_0_M1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hello/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_0_M1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hello/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../hello/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hello/hello7/hello7.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../hello/hello7/hello7.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hello/hello8/hello8.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../hello/hello8/hello8.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hello/testing3/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hello/testing3/src/main/java/action/UserServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hello/testing3/src/main/java/bean/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hello/testing3/src/main/java/dao/UserDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hello/testing3/src/main/java/dao/impl/UserDaoImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hello/testing3/src/main/java/db/DBCon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hello/testing3/src/main/java/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hello/testing3/src/main/java/service/impl/UserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hello/testing3/src/main/resources/db.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hello/testing3/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hello/testing3/src/main/webapp/addUser.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hello/testing3/src/main/webapp/count.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hello/testing3/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hello/testing3/target/classes/action/UserServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hello/testing3/target/classes/bean/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hello/testing3/target/classes/dao/UserDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hello/testing3/target/classes/dao/impl/UserDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hello/testing3/target/classes/db.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hello/testing3/target/classes/db/DBCon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hello/testing3/target/classes/service/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hello/testing3/target/classes/service/impl/UserServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hello/testing3/target/testing3/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hello/testing3/target/testing3/WEB-INF/classes/action/UserServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hello/testing3/target/testing3/WEB-INF/classes/bean/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hello/testing3/target/testing3/WEB-INF/classes/dao/UserDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hello/testing3/target/testing3/WEB-INF/classes/dao/impl/UserDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hello/testing3/target/testing3/WEB-INF/classes/db.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hello/testing3/target/testing3/WEB-INF/classes/db/DBCon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hello/testing3/target/testing3/WEB-INF/classes/service/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hello/testing3/target/testing3/WEB-INF/classes/service/impl/UserServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hello/testing3/target/testing3/WEB-INF/lib/commons-dbcp2-2.2.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hello/testing3/target/testing3/WEB-INF/lib/commons-logging-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hello/testing3/target/testing3/WEB-INF/lib/commons-pool2-2.5.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hello/testing3/target/testing3/WEB-INF/lib/javax.servlet-api-3.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hello/testing3/target/testing3/WEB-INF/lib/mysql-connector-java-8.0.22.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hello/testing3/target/testing3/WEB-INF/lib/protobuf-java-3.11.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hello/testing3/target/testing3/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hello/testing3/target/testing3/addUser.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hello/testing3/target/testing3/count.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hello/testing3/target/testing3/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hello/testing3/testing3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/hibernate_learn1_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/hibernate_learn1_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/f64bbcd0-cfbf-454c-8196-c9bfe52d303a.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/f64bbcd0-cfbf-454c-8196-c9bfe52d303a/storage_v2/_src_/schema/data2.yAWvBQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/f64bbcd0-cfbf-454c-8196-c9bfe52d303a/storage_v2/_src_/schema/data2.yAWvBQ.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/f64bbcd0-cfbf-454c-8196-c9bfe52d303a/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/f64bbcd0-cfbf-454c-8196-c9bfe52d303a/storage_v2/_src_/schema/mysql.osA4Bg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/f64bbcd0-cfbf-454c-8196-c9bfe52d303a/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/f64bbcd0-cfbf-454c-8196-c9bfe52d303a/storage_v2/_src_/schema/sys.zb4BAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hibernate_learn2/src/main/java/cn/itcast/hibernatetest/HibernateDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/hibernate_learn2/src/main/java/cn/itcast/hibernatetest/HibernateDemo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hibernate_learn2/target/classes/cn/itcast/hibernatetest/HibernateDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hibernate_learn1/hibernate_learn1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/hibernate_learn1/hibernate_learn1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hibernate_learn1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hibernate_learn1/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hibernate_learn1/src/main/java/cn/itcast/hibernatetest/HibernateDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/hibernate_learn1/src/main/java/cn/itcast/hibernatetest/HibernateDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hibernate_learn1/target/classes/User.hbm.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hibernate_learn1/target/classes/User.hbm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hibernate_learn1/target/classes/cn/itcast/entity/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/hibernate_learn1/target/classes/cn/itcast/entity/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hibernate_learn1/target/classes/cn/itcast/hibernatetest/HibernateDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/hibernate_learn1/target/classes/cn/itcast/hibernatetest/HibernateDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hibernate_learn2/src/main/java/cn/itcast/hibernatetest/HibernateDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/hibernate_learn2/src/main/java/cn/itcast/hibernatetest/HibernateDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/.idea/artifacts/struts_learn2_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/.idea/artifacts/struts_learn2_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts2/struts2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts2/struts2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn1/struts_learn1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn1/struts_learn1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn2/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn2/src/main/java/cn/itcast/action/ListActionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn2/src/main/java/cn/itcast/action/ListActionDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn2/src/main/java/cn/itcast/action/MapActionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn2/src/main/java/cn/itcast/action/MapActionDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn2/src/main/resources/struts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn2/src/main/resources/struts.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn2/src/main/webapp/list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn2/src/main/webapp/list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn2/src/main/webapp/map.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn2/src/main/webapp/map.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn2/struts_learn2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn2/struts_learn2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn2/target/classes/cn/itcast/action/ListActionDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn2/target/classes/cn/itcast/action/ListActionDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn2/target/classes/struts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn2/target/classes/struts.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn2/target/struts_learn2/WEB-INF/classes/cn/itcast/action/ListActionDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn2/target/struts_learn2/WEB-INF/classes/cn/itcast/action/ListActionDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn2/target/struts_learn2/WEB-INF/classes/struts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn2/target/struts_learn2/WEB-INF/classes/struts.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../struts/struts_learn2/target/struts_learn2/map.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../struts/struts_learn2/target/struts_learn2/map.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,8 +122,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="FxmlFile" />
-        <option value="hibernate-mapping" />
         <option value="hibernate-cfg" />
+        <option value="hibernate-mapping" />
         <option value="Class" />
       </list>
     </option>
@@ -62,7 +161,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="11" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/hibernate1/src/test/java" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/hibernate1/src/main/resources" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -70,14 +169,20 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.25179857" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JAVA_WEB\Project\ssh_learn\hibernate\hibernate1\src\main\resources" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\JAVA_WEB\Project\ssh_learn\hibernate\hibernate1\src\main\resources" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.cdtu.utils" />
+    </key>
   </component>
-  <component name="RunManager" selected="JUnit.HibernateDemo2.testCache">
+  <component name="RunManager" selected="JUnit.HibernateTest.saveMethodTest">
     <configuration name="HibernateDemo1.testDelete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="hibernate_learn2" />
       <extension name="coverage">
@@ -126,8 +231,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HibernateDemoTest.testAdd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="hibernate_1" />
+    <configuration name="HibernateDemo.testAdd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hibernate_learn1" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="cn.itcast.hibernatetest.*" />
@@ -135,8 +240,24 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="cn.itcast.hibernatetest" />
-      <option name="MAIN_CLASS_NAME" value="cn.itcast.hibernatetest.HibernateDemoTest" />
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.hibernatetest.HibernateDemo" />
       <option name="METHOD_NAME" value="testAdd" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HibernateTest.saveMethodTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hibernate1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cdtu.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cdtu.test" />
+      <option name="MAIN_CLASS_NAME" value="com.cdtu.test.HibernateTest" />
+      <option name="METHOD_NAME" value="saveMethodTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -232,10 +353,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.HibernateTest.saveMethodTest" />
+        <item itemvalue="JUnit.HibernateDemo.testAdd" />
         <item itemvalue="JUnit.HibernateDemo2.testCache" />
         <item itemvalue="JUnit.HibernateDemo1.testSaveOrUpdate" />
         <item itemvalue="JUnit.HibernateDemo1.testDelete" />
-        <item itemvalue="JUnit.HibernateDemoTest.testAdd" />
       </list>
     </recent_temporary>
   </component>
@@ -267,6 +389,19 @@
       <workItem from="1629127734015" duration="7000" />
       <workItem from="1629183985130" duration="4441000" />
       <workItem from="1629199782152" duration="67000" />
+      <workItem from="1629798117613" duration="32000" />
+      <workItem from="1629883029547" duration="114000" />
+      <workItem from="1630073387945" duration="88000" />
+      <workItem from="1630073603814" duration="597000" />
+      <workItem from="1630139511294" duration="37000" />
+      <workItem from="1630146924260" duration="9000" />
+      <workItem from="1630157054739" duration="599000" />
+      <workItem from="1630161832069" duration="4000" />
+      <workItem from="1630244425666" duration="1010000" />
+      <workItem from="1630324002896" duration="3387000" />
+      <workItem from="1630368925671" duration="971000" />
+      <workItem from="1630810388683" duration="17000" />
+      <workItem from="1630810554456" duration="1000" />
     </task>
     <task id="LOCAL-00001" summary="2021/8/12">
       <created>1628759879048</created>
@@ -356,5 +491,15 @@
     <MESSAGE value="2021/8/16" />
     <MESSAGE value="2021/8/17" />
     <option name="LAST_COMMIT_MESSAGE" value="2021/8/17" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="org.hibernate.HibernateException" package="org.hibernate" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

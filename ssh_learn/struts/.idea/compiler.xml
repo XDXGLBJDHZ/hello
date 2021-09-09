@@ -9,14 +9,18 @@
         <module name="struts1" />
         <module name="struts2" />
         <module name="struts_learn1" />
+        <module name="struts3" />
+        <module name="struts_learn3" />
         <module name="struts_learn2" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="struts1" target="1.7" />
       <module name="struts2" target="1.7" />
+      <module name="struts3" target="1.7" />
       <module name="struts_learn1" target="1.7" />
       <module name="struts_learn2" target="1.7" />
+      <module name="struts_learn3" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>

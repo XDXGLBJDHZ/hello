@@ -3,8 +3,10 @@
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/struts1" />
     <file type="web" url="file://$PROJECT_DIR$/struts2" />
+    <file type="web" url="file://$PROJECT_DIR$/struts3" />
     <file type="web" url="file://$PROJECT_DIR$/struts_learn1" />
     <file type="web" url="file://$PROJECT_DIR$/struts_learn2" />
+    <file type="web" url="file://$PROJECT_DIR$/struts_learn3" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
@@ -14,6 +16,8 @@
         <option value="$PROJECT_DIR$/struts_learn/pom.xml" />
         <option value="$PROJECT_DIR$/struts_learn2/pom.xml" />
         <option value="$PROJECT_DIR$/struts_learn1/pom.xml" />
+        <option value="$PROJECT_DIR$/struts_learn3/pom.xml" />
+        <option value="$PROJECT_DIR$/struts3/pom.xml" />
       </list>
     </option>
   </component>

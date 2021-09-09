@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mybatis/Mybatis1/Mybatis1.iml" filepath="$PROJECT_DIR$/mybatis/Mybatis1/Mybatis1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis/mybatis.iml" filepath="$PROJECT_DIR$/mybatis/mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring/spring.iml" filepath="$PROJECT_DIR$/spring/spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring/spring1/spring1.iml" filepath="$PROJECT_DIR$/spring/spring1/spring1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring/spring2/spring2.iml" filepath="$PROJECT_DIR$/spring/spring2/spring2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring/spring3/spring3.iml" filepath="$PROJECT_DIR$/spring/spring3/spring3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring/spring4/spring4.iml" filepath="$PROJECT_DIR$/spring/spring4/spring4.iml" />
+    </modules>
+  </component>
+</project>

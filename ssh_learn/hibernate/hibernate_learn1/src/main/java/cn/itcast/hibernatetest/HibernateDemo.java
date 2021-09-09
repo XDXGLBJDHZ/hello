@@ -5,13 +5,14 @@ import cn.itcast.utils.HibernateUtils;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.Transaction;
-import org.hibernate.cfg.Configuration;
+import org.junit.Test;
 
 /**
  * @author ME08I
  * @date 2021/8/13
  */
 public class HibernateDemo {
+    @Test
     public void testAdd() {
 //        第一步：加载hibernate核心配置文件
         //到src下找到hibernate.cfg.xml文件
@@ -30,9 +31,9 @@ public class HibernateDemo {
 //        第五步：具体操作逻辑，crud操作（除这一步有变化，其余步骤都是固定操作）
         //添加功能
         User user = new User();
-        user.setId(2013);
-        user.setUsername("YZdfhK");
-        user.setPassword("2203dfg41");
+        user.setId(20453);
+        user.setUsername("YZdffgdK");
+        user.setPassword("2203drtg41");
         //调用session中的方法来实现添加
         session.save(user);
 //        第六步：提交事物

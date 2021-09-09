@@ -14,6 +14,8 @@
           <element id="module-output" name="struts_learn2" />
         </element>
         <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: junit:junit:4.11" />
+          <element id="library" level="project" name="Maven: org.hamcrest:hamcrest-core:1.3" />
           <element id="library" level="project" name="Maven: org.apache.struts:struts2-core:2.3.37" />
           <element id="library" level="project" name="Maven: org.apache.struts.xwork:xwork-core:2.3.37" />
           <element id="library" level="project" name="Maven: org.apache.commons:commons-lang3:3.2" />

@@ -4,8 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/struts1/struts1.iml" filepath="$PROJECT_DIR$/struts1/struts1.iml" />
       <module fileurl="file://$PROJECT_DIR$/struts2/struts2.iml" filepath="$PROJECT_DIR$/struts2/struts2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/struts3/struts3.iml" filepath="$PROJECT_DIR$/struts3/struts3.iml" />
       <module fileurl="file://$PROJECT_DIR$/struts_learn1/struts_learn1.iml" filepath="$PROJECT_DIR$/struts_learn1/struts_learn1.iml" />
       <module fileurl="file://$PROJECT_DIR$/struts_learn2/struts_learn2.iml" filepath="$PROJECT_DIR$/struts_learn2/struts_learn2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/struts_learn3/struts_learn3.iml" filepath="$PROJECT_DIR$/struts_learn3/struts_learn3.iml" />
     </modules>
   </component>
 </project>

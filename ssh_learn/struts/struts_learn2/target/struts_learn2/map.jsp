@@ -11,6 +11,14 @@
     <title>map</title>
 </head>
 <body>
-
+<form action="${pageContext.request.contextPath}/map.action" method="post">
+    <!--设置key的值map['key']
+    设置value的值
+    -->
+    <input type="text" name="map['one'].id">
+    <input type="text" name="map['one'].username">
+    <input type="text" name="map['one'].password">
+    <input type="submit" value="提交">
+</form>
 </body>
 </html>

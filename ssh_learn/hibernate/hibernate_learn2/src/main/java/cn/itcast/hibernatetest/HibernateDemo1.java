@@ -12,6 +12,7 @@ import org.junit.Test;
  * @author ME08I
  * @date 2021/8/14
  */
+
 public class HibernateDemo1 {
 
     @Test
