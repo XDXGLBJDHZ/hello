@@ -3,4 +3,11 @@
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
+    <!--使用类构造器直接实例化bean-->
+    <bean id="helloWorldFactory" class="com.service.impl.HelloWorldImpl"/>
+    <!--使用静态工厂方法实例化bean-->
+    <bean id="helloWorld1" class="com.service.impl.HelloWorldBeanFactory" factory-method="createHelloWorldBean1"/>
+    <!--使用实例工厂方法实例化bean-->
+    <bean id="helloWorldBeanFactory" class="com.service.impl.HelloWorldBeanFactory"/>
+    <bean id="helloWorld2" factory-bean="helloWorldBeanFactory"  factory-method="createHelloWorldBean2" class="com.service.impl.HelloWorldBeanFactory"/>
 </beans>

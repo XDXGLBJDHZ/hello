@@ -9,6 +9,6 @@ import com.service.HelloWorld;
 public class HelloWorldImpl implements HelloWorld {
     @Override
     public String sayHi(String name) {
-        return "欢迎"+name+"学习spring";
+        return "欢迎"+name+"学习";
     }
 }
